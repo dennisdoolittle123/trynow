@@ -54,6 +54,7 @@ public class TestClasses1 {
         assertTrue(jessesRating.getRating() == -1);
     }
 
+
     @Test
     public void testRatingClass() {
         Rating rating = new Rating("Jesse", 5);
